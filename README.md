@@ -1,2 +1,2 @@
 # senacteste
-VCCode para Github
+VSCode para Github
